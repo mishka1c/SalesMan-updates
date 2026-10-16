@@ -1,0 +1,11 @@
+{
+  "versionCode": 10200,
+  "versionName": "1.2.0",
+  "apkUrl": "https://adg.mykino.uk/get/7e4b10e4-8173-42f2-a059-c83303fa4a06/app.apk",
+  "sha256": "dc6bd0c0eca37d79f9f09de184a2ba67b6d49b02c03c3fd0200005c226d7aa1f",
+  "changelog": "- Автоматичне оновлення програми з сервера\n- Перевірка оновлень у Налаштуваннях",
+  "mandatory": false,
+  "packageName": "com.salesman.app",
+  "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
+  "publishedAt": "2026-10-16T10:56:13Z"
+}
