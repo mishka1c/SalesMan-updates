@@ -1,11 +1,11 @@
 {
-  "versionCode": 10201,
-  "versionName": "1.2.1",
-  "apkUrl": "https://adg.mykino.uk/get/a8a823b7-2da7-457b-b85d-9645588bd801/app.apk",
-  "sha256": "1d4cef176773d8e69147d2262af078ef7f10848b866e404d7ea3bbd2718e7a5c",
-  "changelog": "- Папки FTP за замовчуванням: /inbox і /outbox\n- Розділ «Додатково» в налаштуваннях\n- Зміна режиму каталогу під час підбору товарів\n- Нові імена файлів баз (дані зберігаються)",
+  "versionCode": 10202,
+  "versionName": "1.2.2",
+  "apkUrl": "https://adg.mykino.uk/get/14fbd3be-8c5c-47fe-934c-0c672e104baa/app.apk",
+  "sha256": "1571e2e16cc099fdef5b79b06ac3e5c889b7e155439096f17d37622581f2281e",
+  "changelog": "- FTP-сервер — згорнутий блок у налаштуваннях\n- Режим каталогу та тема — у розділі «Додатково»\n- Перевірка оновлень — у блоці «Про програму»\n- Дані агента — лише перегляд",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-16T11:23:28Z"
+  "publishedAt": "2026-10-16T12:10:15Z"
 }
