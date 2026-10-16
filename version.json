@@ -1,11 +1,11 @@
 {
-  "versionCode": 10202,
-  "versionName": "1.2.2",
-  "apkUrl": "https://adg.mykino.uk/get/14fbd3be-8c5c-47fe-934c-0c672e104baa/app.apk",
-  "sha256": "1571e2e16cc099fdef5b79b06ac3e5c889b7e155439096f17d37622581f2281e",
-  "changelog": "- FTP-сервер — згорнутий блок у налаштуваннях\n- Режим каталогу та тема — у розділі «Додатково»\n- Перевірка оновлень — у блоці «Про програму»\n- Дані агента — лише перегляд",
+  "versionCode": 10203,
+  "versionName": "1.2.3",
+  "apkUrl": "https://adg.mykino.uk/get/3708e472-a2cf-454d-a4f3-5f79ed4b4668/app.apk",
+  "sha256": "8bbd1d36c905f5e4a46a563373f2854e8bb0a8a6f24f65d7884cce7219c1825d",
+  "changelog": "- Очищення та видалення бази даних (Налаштування → База даних)\n- Попередження про невідправлені заявки перед очищенням",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-16T12:10:15Z"
+  "publishedAt": "2026-10-16T19:38:14Z"
 }
