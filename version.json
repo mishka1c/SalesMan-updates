@@ -1,11 +1,11 @@
 {
-  "versionCode": 10300,
-  "versionName": "1.3.0",
-  "apkUrl": "https://adg.mykino.uk/get/9f4c08d7-753f-4200-9d9f-ba0e7b8977d9/app.apk",
-  "sha256": "c04ad44ec3934c7185237eb68203cf967e7474d02b41beffeedba00146ce57a6",
-  "changelog": "- Ліцензування: активація ключем ліцензії\n- Інформація про ліцензію в «Про програму»",
+  "versionCode": 10301,
+  "versionName": "1.3.1",
+  "apkUrl": "https://adg.mykino.uk/get/cc98e48d-1a78-4718-be7d-15ef5e34efb4/app.apk",
+  "sha256": "3c8cf1e5e793ef970c6b47d8c877adf3914253eadeb2958a8d15077f62f5b273",
+  "changelog": "- Відв’язана або заблокована ліцензія блокує програму при наступному запуску\n- Частіша перевірка ліцензії на сервері",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-17T11:49:29Z"
+  "publishedAt": "2026-10-17T12:17:07Z"
 }
