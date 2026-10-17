@@ -1,11 +1,11 @@
 {
-  "versionCode": 10302,
-  "versionName": "1.3.2",
-  "apkUrl": "https://adg.mykino.uk/get/cc84561b-34f2-4c2f-b7e7-d7023892035c/app.apk",
-  "sha256": "407e3c355790d0ec214c74fc52da084076b8a17cdd8c9afbff918c80b0cb81eb",
-  "changelog": "- Артикул товару: показ і пошук за артикулом\n- Колір виділення товару з BAF\n- Правильні дати оплати боргів (прострочення)\n- Надійніша відправка заявок, коли BAF ще не забрав попередні файли",
+  "versionCode": 10303,
+  "versionName": "1.3.3",
+  "apkUrl": "https://adg.mykino.uk/get/092014c5-2523-4c13-9aca-d5b1ae7b4208/app.apk",
+  "sha256": "97b3531950876f63f248c26cd00e2280be30f2ccbeb33cacf599f124a5b2113d",
+  "changelog": "- Режим «Дерево» тепер показує каталог: TOP SKU → Бренд → Група → Товари",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-17T13:04:06Z"
+  "publishedAt": "2026-10-17T14:21:51Z"
 }
