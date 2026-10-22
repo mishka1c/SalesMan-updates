@@ -1,11 +1,11 @@
 {
-  "versionCode": 10400,
-  "versionName": "1.4.0",
-  "apkUrl": "https://adg.mykino.uk/get/cd3cfd88-1c50-40c3-bf4f-9b562959d8b8/app.apk",
-  "sha256": "c8cfb028688e684244c23c581adc3aad0489363aa626c8a03f61dd22ec3b4794",
-  "changelog": "- Прийом оплати без документа в картці клієнта\n- Нова вкладка «Оплати» з журналом оплат за період\n- Часткові оплати одного документа за день вивантажуються однією сумою",
+  "versionCode": 10401,
+  "versionName": "1.4.1",
+  "apkUrl": "https://adg.mykino.uk/get/03df4628-3b73-40ef-b3b4-1706a1311957/app.apk",
+  "sha256": "6a89e297ecb9d928099b520ea17650bd90a4b7fd0ba4a6dfac669ce6da685889",
+  "changelog": "- Застосунок перевіряє оновлення й при поверненні в нього, а не лише при запуску",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-22T13:40:58Z"
+  "publishedAt": "2026-10-22T15:01:25Z"
 }
