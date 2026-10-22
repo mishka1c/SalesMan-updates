@@ -1,11 +1,11 @@
 {
-  "versionCode": 10401,
-  "versionName": "1.4.1",
-  "apkUrl": "https://adg.mykino.uk/get/03df4628-3b73-40ef-b3b4-1706a1311957/app.apk",
-  "sha256": "6a89e297ecb9d928099b520ea17650bd90a4b7fd0ba4a6dfac669ce6da685889",
-  "changelog": "- Застосунок перевіряє оновлення й при поверненні в нього, а не лише при запуску",
+  "versionCode": 10402,
+  "versionName": "1.4.2",
+  "apkUrl": "https://adg.mykino.uk/get/0328a46e-d344-4e1d-81de-ad77b21a2889/app.apk",
+  "sha256": "ea4ee8f605e141b50800d23172b67f0290ad3d8b6c5cf0ebbcec0ee44e22edbe",
+  "changelog": "- Тестова версія для перевірки оновлень",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-22T15:01:25Z"
+  "publishedAt": "2026-10-22T15:28:24Z"
 }
