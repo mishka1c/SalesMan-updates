@@ -1,11 +1,11 @@
 {
-  "versionCode": 10500,
-  "versionName": "1.5.0",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/34b7c860-7423-4906-b9e4-ba46641839e0/app.apk",
-  "sha256": "54cd1f3eb96d80cb024ee8f9839a20b459b3260bfa3a58094a722c86d4e3c1b5",
-  "changelog": "- Нові сервери ліцензій і оновлень (Coolify)\n- Потрібне перевстановлення застосунку й повторна активація ключем з нового сервера ліцензій",
+  "versionCode": 10501,
+  "versionName": "1.5.1",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/10080bf5-67ee-4d24-926c-0a6a9163b50b/app.apk",
+  "sha256": "d9b75c9d6fdc83f3356b311024d3c2d969258e2fd30777253fe00d527387cf1a",
+  "changelog": "- Тестова версія для перевірки оновлення з нового сервера",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-22T19:59:13Z"
+  "publishedAt": "2026-10-22T20:13:18Z"
 }
