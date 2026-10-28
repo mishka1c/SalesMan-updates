@@ -1,11 +1,11 @@
 {
-  "versionCode": 10501,
-  "versionName": "1.5.1",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/10080bf5-67ee-4d24-926c-0a6a9163b50b/app.apk",
-  "sha256": "d9b75c9d6fdc83f3356b311024d3c2d969258e2fd30777253fe00d527387cf1a",
-  "changelog": "- Тестова версія для перевірки оновлення з нового сервера",
+  "versionCode": 10502,
+  "versionName": "1.5.2",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/3c39d516-52e0-4975-9479-3b85a5188885/app.apk",
+  "sha256": "1078e9a1d2cd02f016bbb13e55e761c9fa511351a1724d514375ddd2e48b38ce",
+  "changelog": "- Версія Android пристрою передається на сервер ліцензій",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-22T20:13:18Z"
+  "publishedAt": "2026-10-28T11:44:48Z"
 }
