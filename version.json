@@ -1,11 +1,11 @@
 {
-  "versionCode": 10503,
-  "versionName": "1.5.3",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/39bfe91f-b17d-4762-9fb2-e23c2fa8f4a4/app.apk",
-  "sha256": "d3428c99b9c3968272719d5d25dfda9b4a94fd446828138696dcc7abd86b04bc",
-  "changelog": "- У меню цін лише ціни з назвами з BAF\n- У картці клієнта — попередні оплати клієнта",
+  "versionCode": 10504,
+  "versionName": "1.5.4",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/92e5d0b2-cf31-4624-950a-0421543c971c/app.apk",
+  "sha256": "a77eaa5547c63e2907690e316651325280aa29f2a4179b4e6e96625ab2fc83ac",
+  "changelog": "- Довгі назви клієнтів і торгових точок переносяться, а не обрізаються",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-28T12:27:00Z"
+  "publishedAt": "2026-10-28T12:45:29Z"
 }
