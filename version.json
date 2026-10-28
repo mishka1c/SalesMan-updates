@@ -1,11 +1,11 @@
 {
-  "versionCode": 10504,
-  "versionName": "1.5.4",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/92e5d0b2-cf31-4624-950a-0421543c971c/app.apk",
-  "sha256": "a77eaa5547c63e2907690e316651325280aa29f2a4179b4e6e96625ab2fc83ac",
-  "changelog": "- Довгі назви клієнтів і торгових точок переносяться, а не обрізаються",
+  "versionCode": 10505,
+  "versionName": "1.5.5",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/807da992-887c-46ec-80e4-5a100248d0cd/app.apk",
+  "sha256": "9342d85b6d6ac5d159fdb9fce8456364b1f22cc14ecc2f0a3d0c671cf9ba2a21",
+  "changelog": "- Канал оновлень у налаштуваннях: стабільний або бета\n- Компактна шапка на «Заявках» і «Оплатах»",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-28T12:45:29Z"
+  "publishedAt": "2026-10-28T13:28:40Z"
 }
