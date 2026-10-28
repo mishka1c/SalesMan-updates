@@ -1,11 +1,11 @@
 {
-  "versionCode": 10505,
-  "versionName": "1.5.5",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/807da992-887c-46ec-80e4-5a100248d0cd/app.apk",
-  "sha256": "9342d85b6d6ac5d159fdb9fce8456364b1f22cc14ecc2f0a3d0c671cf9ba2a21",
-  "changelog": "- Канал оновлень у налаштуваннях: стабільний або бета\n- Компактна шапка на «Заявках» і «Оплатах»",
+  "versionCode": 10510,
+  "versionName": "1.5.10",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/2417b640-2ac0-4066-bdad-dcf99a3297cb/app.apk",
+  "sha256": "f9ba47556d9a726de7b75b05d365ccd8abc27d2a964ec7149b704b23431c2cfe",
+  "changelog": "- Налаштування «Підбір товарів»: режим каталогу, тільки залишки, зміна ціни\n- «Тільки залишки» можна перемкнути під час підбору",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-28T13:28:40Z"
+  "publishedAt": "2026-10-28T17:59:59Z"
 }
