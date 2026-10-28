@@ -1,11 +1,11 @@
 {
-  "versionCode": 10508,
-  "versionName": "1.5.8",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/2edf72d8-05bc-44bd-9945-8355f157dd9e/app.apk",
-  "sha256": "e4af08482228dfd63b542af577ecd220c819eb8beb421a9e457e96fa269bfcf5",
-  "changelog": "- Нова вкладка «Звіти»: зібрані кошти й замовлення за період\n- Групування по днях, клієнтах і товарах",
+  "versionCode": 10509,
+  "versionName": "1.5.9",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/9edd9b20-c3ae-4985-8e27-d013305e2896/app.apk",
+  "sha256": "8202cd47d12fd8425f4d8dc322a072d0f84c30a8c40b5f42a62816d26976b4ec",
+  "changelog": "- Каталог: товари без залишку на вибраному складі не зникають\n- Дерево показує залишки вибраного складу",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-28T17:09:53Z"
+  "publishedAt": "2026-10-28T17:28:57Z"
 }
