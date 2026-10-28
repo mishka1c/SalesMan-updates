@@ -1,11 +1,11 @@
 {
-  "versionCode": 10509,
-  "versionName": "1.5.9",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/9edd9b20-c3ae-4985-8e27-d013305e2896/app.apk",
-  "sha256": "8202cd47d12fd8425f4d8dc322a072d0f84c30a8c40b5f42a62816d26976b4ec",
-  "changelog": "- Каталог: товари без залишку на вибраному складі не зникають\n- Дерево показує залишки вибраного складу",
+  "versionCode": 10510,
+  "versionName": "1.5.10",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/2417b640-2ac0-4066-bdad-dcf99a3297cb/app.apk",
+  "sha256": "f9ba47556d9a726de7b75b05d365ccd8abc27d2a964ec7149b704b23431c2cfe",
+  "changelog": "- Налаштування «Підбір товарів»: режим каталогу, тільки залишки, зміна ціни\n- «Тільки залишки» можна перемкнути під час підбору",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-28T17:28:57Z"
+  "publishedAt": "2026-10-28T17:54:00Z"
 }
