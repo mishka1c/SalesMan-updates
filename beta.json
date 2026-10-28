@@ -1,0 +1,11 @@
+{
+  "versionCode": 10506,
+  "versionName": "1.5.6",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/c230918d-cf60-4d7c-8248-dfd58c133d35/app.apk",
+  "sha256": "a204b7182f2189279ee289141c2f5b9b7c3a4308451f19bdf2fd7b6ac45921b5",
+  "changelog": "- Тестова бета для перевірки бета-каналу",
+  "mandatory": false,
+  "packageName": "com.salesman.app",
+  "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
+  "publishedAt": "2026-10-28T13:45:25Z"
+}
