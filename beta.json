@@ -1,11 +1,11 @@
 {
-  "versionCode": 10510,
-  "versionName": "1.5.10",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/2417b640-2ac0-4066-bdad-dcf99a3297cb/app.apk",
-  "sha256": "f9ba47556d9a726de7b75b05d365ccd8abc27d2a964ec7149b704b23431c2cfe",
-  "changelog": "- Налаштування «Підбір товарів»: режим каталогу, тільки залишки, зміна ціни\n- «Тільки залишки» можна перемкнути під час підбору",
+  "versionCode": 10511,
+  "versionName": "1.5.11",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/4e6f9220-1ed3-4eac-9e68-327a9816b4c8/app.apk",
+  "sha256": "a7bfa957ac728478710b8056801907d561f8352ab88f07f340d0a3fd3dd85556",
+  "changelog": "- Демо-режим без ліцензії: вигадані дані й фіктивний обмін\n- Навчання основних можливостей при першому вході",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-28T17:54:00Z"
+  "publishedAt": "2026-10-30T09:07:19Z"
 }
