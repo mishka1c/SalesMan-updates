@@ -1,11 +1,11 @@
 {
-  "versionCode": 10511,
-  "versionName": "1.5.11",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/4e6f9220-1ed3-4eac-9e68-327a9816b4c8/app.apk",
-  "sha256": "a7bfa957ac728478710b8056801907d561f8352ab88f07f340d0a3fd3dd85556",
-  "changelog": "- Демо-режим без ліцензії: вигадані дані й фіктивний обмін\n- Навчання основних можливостей при першому вході",
+  "versionCode": 10513,
+  "versionName": "1.5.13",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/fdd73f70-a84b-4fc8-b4b6-0d8f1bf76947/app.apk",
+  "sha256": "50911cdcb4f93b874ac34e07a50e864886bec3d53e9202e91abe341d70e93cf0",
+  "changelog": "- Картинки товарів у підборі: мініатюра, перегляд, плитка або у вікні кількості\n- Вибір варіанта: Налаштування → Підбір товарів → Картинки товарів",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-30T09:07:19Z"
+  "publishedAt": "2026-10-31T12:55:19Z"
 }
