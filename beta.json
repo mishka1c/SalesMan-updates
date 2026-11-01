@@ -1,11 +1,11 @@
 {
-  "versionCode": 10514,
-  "versionName": "1.5.14",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/f9e9f7bd-490d-4542-a4cd-2e975fc7b098/app.apk",
-  "sha256": "7478854f46d834e788b21d9b2e465a4bf64aeb388b5fd20cd71cfa6fdc28e76f",
-  "changelog": "- Демо-режим: картинки товарів з'являються без повторного обміну",
+  "versionCode": 10515,
+  "versionName": "1.5.15",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/ab9aeb0d-109e-4f2a-bd67-a4c6af5f3d63/app.apk",
+  "sha256": "b06ee95dd25415bde1948fed8eaf2df4480644d7fca655516f3d185893d0cd26",
+  "changelog": "- Картинки товарів зі спільної папки на FTP\n- Типово папка /images; змінюється в налаштуваннях FTP або параметром imagesdir у workinf.",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-10-31T13:39:47Z"
+  "publishedAt": "2026-11-01T12:04:36Z"
 }
