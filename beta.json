@@ -1,11 +1,11 @@
 {
-  "versionCode": 10526,
-  "versionName": "1.5.26",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/0a28921d-6ff5-4f5d-a0b0-4faa0e1bcc13/app.apk",
-  "sha256": "e113d943d53c84e3d4abd0312102b0cbedcd0995eea5daf44765e0c86e98d8db",
-  "changelog": "- Історія клієнта і копіювання артикула\n- У картці клієнта є історія продажів і оплат із цього телефона\n- З історії відкривається заявка або документ оплати\n- Артикул товару можна скопіювати кнопкою у вікні кількості",
+  "versionCode": 10527,
+  "versionName": "1.5.27",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/c49dd93c-1f0b-49f3-ad37-846c65f578d1/app.apk",
+  "sha256": "b6199fcac10e35d96717903e8b3cc248ef223f9b9a2a06e1d9d4d5be709b9821",
+  "changelog": "- Нові картинки в демо-режимі\n- У демо-режимі товари мають намальовані картинки упаковок\n- Наявні демо-бази отримають нові картинки автоматично",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-01T19:44:06Z"
+  "publishedAt": "2026-11-01T19:50:05Z"
 }
