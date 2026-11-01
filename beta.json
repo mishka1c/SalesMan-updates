@@ -1,11 +1,11 @@
 {
-  "versionCode": 10523,
-  "versionName": "1.5.23",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/4a23d3c5-05a6-4139-a3bb-f67da1f869a1/app.apk",
-  "sha256": "11b1f0ccf7f26c50b61625fd1b84d0d01584eb753976c9f4178b333e17baa2c1",
-  "changelog": "- Збільшення фото товару\n- Фото відкривається на весь екран з мініатюри та з вікна кількості\n- Збільшення двома пальцями або подвійним дотиком",
+  "versionCode": 10524,
+  "versionName": "1.5.24",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/e6c1919d-47b5-4939-b188-2fe09245b156/app.apk",
+  "sha256": "f86f589d090302379352760c03adf0119ddcd8f4dc1c016a6033704fbd72937a",
+  "changelog": "- Компактніші екрани обміну й налаштувань\n- Блок відправки заявок менший, «Відправити» тепер помітна кнопка\n- У налаштуваннях рядок бази показує лише назву\n- Розмір бази й картинок перенесено в рядок FTP-сервера",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-01T17:50:47Z"
+  "publishedAt": "2026-11-01T18:58:28Z"
 }
