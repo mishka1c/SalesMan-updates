@@ -1,11 +1,11 @@
 {
-  "versionCode": 10518,
-  "versionName": "1.5.18",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/f8f87be6-ba16-42f2-b47f-d139b819c7b1/app.apk",
-  "sha256": "173bbb584c2f7265ffa69cbf26608797e98829af7829f9f2db2fb1289b36702f",
-  "changelog": "- Простіший вибір вигляду картинок\n- Лишились режими: Без картинок, Мініатюра, Плитка.\n- Фото при виборі товару показується в усіх режимах, крім Без картинок.\n- Розмір бази показується в рядку самої бази.",
+  "versionCode": 10519,
+  "versionName": "1.5.19",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/f3b90f1f-1740-4d2d-9af3-8c001c75a7de/app.apk",
+  "sha256": "d6d76f6ba8ecf28c618dcbdeabf31db87a1e7e4fd15292343fbcdce678bcd7ce",
+  "changelog": "- Вікно кількості без порожнього місця для фото\n- Якщо в товару немає фото, блок картинки не показується.",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-01T13:52:53Z"
+  "publishedAt": "2026-11-01T13:58:54Z"
 }
