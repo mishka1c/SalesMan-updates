@@ -1,11 +1,11 @@
 {
-  "versionCode": 10530,
-  "versionName": "1.5.30",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/c1b806af-9dae-4fae-b1ee-94a1679d57fd/app.apk",
-  "sha256": "0e9d71cdba9677448292acb655c8adfe2b9f1323df0c5b4ad6557359953a3a36",
-  "changelog": "- Оплата відкривається одразу\n- Дотик до невідправленої оплати одразу відкриває вікно коригування, без проміжної сторінки\n- Відправлену оплату можна лише переглянути; щоб змінити, її треба розблокувати",
+  "versionCode": 10531,
+  "versionName": "1.5.31",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/fa97a981-a625-47e0-bbc3-68ec24c136e4/app.apk",
+  "sha256": "2813c6184260c471c0ea1578c1c825b4a246ad6b5e9a7a614c6d99ba3ccbc942",
+  "changelog": "- Свайпи між вкладками\n- Між головними вкладками можна переходити свайпом уліво й управо\n- Вкладки з'їжджають убік і при свайпі, і при натисканні кнопок",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-01T22:23:38Z"
+  "publishedAt": "2026-11-01T22:40:43Z"
 }
