@@ -1,11 +1,11 @@
 {
-  "versionCode": 10533,
-  "versionName": "1.5.33",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/8030d663-9039-463c-9c1d-9fdf24b025f0/app.apk",
-  "sha256": "c4986cdd1cfc1afcf4c82feb05758cd585bf8d8c1c195714412e17c861bf6003",
-  "changelog": "- Очищення бази зі збереженням налаштувань\n- Під час очищення бази галочка «Залишити налаштування» (увімкнена): усі дані видаляються, а FTP, дані агента й назва бази лишаються",
+  "versionCode": 10534,
+  "versionName": "1.5.34",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/eeca3022-3c77-4b63-953f-17d43c4bdb75/app.apk",
+  "sha256": "848458ef980ce6cd90f2ee2dde81d358e639969f91f91e90efc53aeafdb06b4a",
+  "changelog": "- Перевірка відправлених файлів\n- Після відправки телефон звіряє розмір файлів на сервері; якщо дані загубились дорогою (наприклад, через VPN), показує помилку, а заявки лишаються невідправленими\n- Фото видаляються з телефона лише тоді, коли на сервері вони повні",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-02T09:09:12Z"
+  "publishedAt": "2026-11-02T10:55:32Z"
 }
