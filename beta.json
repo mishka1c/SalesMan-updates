@@ -1,11 +1,11 @@
 {
-  "versionCode": 10534,
-  "versionName": "1.5.34",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/eeca3022-3c77-4b63-953f-17d43c4bdb75/app.apk",
-  "sha256": "848458ef980ce6cd90f2ee2dde81d358e639969f91f91e90efc53aeafdb06b4a",
-  "changelog": "- Перевірка відправлених файлів\n- Після відправки телефон звіряє розмір файлів на сервері; якщо дані загубились дорогою (наприклад, через VPN), показує помилку, а заявки лишаються невідправленими\n- Фото видаляються з телефона лише тоді, коли на сервері вони повні",
+  "versionCode": 10535,
+  "versionName": "1.5.35",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/b7e34656-a9c1-401c-976d-7a6004f3b2bd/app.apk",
+  "sha256": "27c6609a08f235b6674cfc6ccf3713403983ee1bbacc1a22975df693693c5777",
+  "changelog": "- 1.5.35 beta",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-02T10:55:32Z"
+  "publishedAt": "2026-11-02T17:16:19Z"
 }
