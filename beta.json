@@ -1,11 +1,11 @@
 {
-  "versionCode": 10531,
-  "versionName": "1.5.31",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/fa97a981-a625-47e0-bbc3-68ec24c136e4/app.apk",
-  "sha256": "2813c6184260c471c0ea1578c1c825b4a246ad6b5e9a7a614c6d99ba3ccbc942",
-  "changelog": "- Свайпи між вкладками\n- Між головними вкладками можна переходити свайпом уліво й управо\n- Вкладки з'їжджають убік і при свайпі, і при натисканні кнопок",
+  "versionCode": 10532,
+  "versionName": "1.5.32",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/d61e04fc-cc12-4aec-83af-f831a1f2f7b1/app.apk",
+  "sha256": "53454d2ae65512723f74e6566456798e01dcea88bb4184c1e5044c1b1ee004d0",
+  "changelog": "- Картинки архівом\n- Коли бракує понад 30% картинок, телефон завантажує один архів _images.zip замість тисяч окремих файлів\n- Після обриву зв'язку архів докачується з місця зупинки\n- Потрібен оновлений модуль вивантаження картинок у BAF",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-01T22:40:43Z"
+  "publishedAt": "2026-11-02T09:04:10Z"
 }
