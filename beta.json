@@ -1,11 +1,11 @@
 {
-  "versionCode": 10532,
-  "versionName": "1.5.32",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/d61e04fc-cc12-4aec-83af-f831a1f2f7b1/app.apk",
-  "sha256": "53454d2ae65512723f74e6566456798e01dcea88bb4184c1e5044c1b1ee004d0",
-  "changelog": "- Картинки архівом\n- Коли бракує понад 30% картинок, телефон завантажує один архів _images.zip замість тисяч окремих файлів\n- Після обриву зв'язку архів докачується з місця зупинки\n- Потрібен оновлений модуль вивантаження картинок у BAF",
+  "versionCode": 10533,
+  "versionName": "1.5.33",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/8030d663-9039-463c-9c1d-9fdf24b025f0/app.apk",
+  "sha256": "c4986cdd1cfc1afcf4c82feb05758cd585bf8d8c1c195714412e17c861bf6003",
+  "changelog": "- Очищення бази зі збереженням налаштувань\n- Під час очищення бази галочка «Залишити налаштування» (увімкнена): усі дані видаляються, а FTP, дані агента й назва бази лишаються",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-02T09:04:10Z"
+  "publishedAt": "2026-11-02T09:09:12Z"
 }
