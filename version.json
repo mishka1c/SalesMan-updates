@@ -1,11 +1,11 @@
 {
-  "versionCode": 10533,
-  "versionName": "1.5.33",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/8030d663-9039-463c-9c1d-9fdf24b025f0/app.apk",
-  "sha256": "c4986cdd1cfc1afcf4c82feb05758cd585bf8d8c1c195714412e17c861bf6003",
-  "changelog": "- Очищення бази зі збереженням налаштувань\n- Під час очищення бази галочка «Залишити налаштування» (увімкнена): усі дані видаляються, а FTP, дані агента й назва бази лишаються",
+  "versionCode": 10536,
+  "versionName": "1.5.36",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/d185335e-ae97-4ea1-96cc-f0448ccdc05a/app.apk",
+  "sha256": "1917bf19b37c18f04d6cc15d9c5b9ca666ed3f327559ab1d30d2be1cd6139d06",
+  "changelog": "- 1.5.36 beta",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-02T09:23:16Z"
+  "publishedAt": "2026-11-03T09:34:52Z"
 }
