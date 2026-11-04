@@ -1,11 +1,11 @@
 {
-  "versionCode": 10543,
-  "versionName": "1.5.43",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/72306023-dc2f-406e-9ac9-c3aabdcb9fb4/app.apk",
-  "sha256": "ee8a2d6874710888ad4266d3adac16afd17333d0ace341328aa92d3b49da9c9d",
-  "changelog": "- 1.5.43 beta",
+  "versionCode": 10544,
+  "versionName": "1.5.44",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/77f8884e-d51f-4e49-b0ec-dc65e651adb4/app.apk",
+  "sha256": "0e2b5779f4dd06d30a5f72ac6bf92d9948cd50cf7c695bc9dd466e26d2c3ae64",
+  "changelog": "- 1.5.44 beta",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-03T23:21:10Z"
+  "publishedAt": "2026-11-04T10:18:00Z"
 }
