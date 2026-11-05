@@ -3,7 +3,7 @@
   "versionName": "1.5.48",
   "apkUrl": "https://salesmanupd.bizon.rv.ua/get/a89442fd-dc5d-4d5c-a1f2-e30fc2dabbb8/app.apk",
   "sha256": "b6278cea741002d9844a4a0f697f5c732c1dd8df18d021175501890c303c47d4",
-  "changelog": "- Невеликий сюрприз у «Про програму»",
+  "changelog": "- Дрібні покращення",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
@@ -12,7 +12,7 @@
     {
       "versionCode": 10548,
       "versionName": "1.5.48",
-      "changelog": "- Невеликий сюрприз у «Про програму»"
+      "changelog": "- Дрібні покращення"
     },
     {
       "versionCode": 10547,
