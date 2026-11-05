@@ -1,14 +1,19 @@
 {
-  "versionCode": 10548,
-  "versionName": "1.5.48",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/a89442fd-dc5d-4d5c-a1f2-e30fc2dabbb8/app.apk",
-  "sha256": "b6278cea741002d9844a4a0f697f5c732c1dd8df18d021175501890c303c47d4",
-  "changelog": "- Дрібні покращення",
+  "versionCode": 10549,
+  "versionName": "1.5.49",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/4b0bd952-97bc-4eeb-a11a-8fe8f0c6ed92/app.apk",
+  "sha256": "7111bb34e6ce33b5a47cf659488fe50e79c16f9b9fb0ca492becb71ac3026109",
+  "changelog": "- Оплати клієнтів з облікової системи в журналі оплат та історії клієнта (позначка «Облік», лише перегляд)",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-05T09:02:06Z",
+  "publishedAt": "2026-11-05T11:16:13Z",
   "history": [
+    {
+      "versionCode": 10549,
+      "versionName": "1.5.49",
+      "changelog": "- Оплати клієнтів з облікової системи в журналі оплат та історії клієнта (позначка «Облік», лише перегляд)"
+    },
     {
       "versionCode": 10548,
       "versionName": "1.5.48",
