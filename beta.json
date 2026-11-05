@@ -1,14 +1,19 @@
 {
-  "versionCode": 10551,
-  "versionName": "1.5.51",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/c4118cdf-d196-4f71-b308-64b7b1543021/app.apk",
-  "sha256": "33aef791d7b143fb2d300e004a8362eecb17adfe27b0c8bdb68add9d946cb9b1",
-  "changelog": "- Кнопки заявки: угорі оплата, ПДВ і відстрочка, унизу повернення, брак, знижка й примітка",
+  "versionCode": 10552,
+  "versionName": "1.5.52",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/c2d2386a-e78d-412a-b9dc-fe4e71707d52/app.apk",
+  "sha256": "2b3351e5c93d2e4aa4bc913a2bc5f49583b06d9d2710e8cc83eb33b5739f8cfe",
+  "changelog": "- Резервна копія: «Налаштування → База даних» — вигрузити вибрані бази у файл або надіслати, відновити з копії\n- Галочка біля вибраної форми оплати й ПДВ у заявці",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-05T11:51:01Z",
+  "publishedAt": "2026-11-05T13:42:20Z",
   "history": [
+    {
+      "versionCode": 10552,
+      "versionName": "1.5.52",
+      "changelog": "- Резервна копія: «Налаштування → База даних» — вигрузити вибрані бази у файл або надіслати, відновити з копії\n- Галочка біля вибраної форми оплати й ПДВ у заявці"
+    },
     {
       "versionCode": 10551,
       "versionName": "1.5.51",
