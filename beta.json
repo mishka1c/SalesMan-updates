@@ -1,14 +1,19 @@
 {
-  "versionCode": 10553,
-  "versionName": "1.5.53",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/144c60b7-4977-4c4a-88be-a68cfdc4b142/app.apk",
-  "sha256": "426522bf9f2e7db9d940bd08ec3bfdb483d989c72712f0bdda5fd0811f0c9b34",
-  "changelog": "- Кнопки форми оплати й ПДВ у заявці зі стрілкою: видно, що це вибір зі списку",
+  "versionCode": 10554,
+  "versionName": "1.5.54",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/17aa3f92-c16d-4c52-89ca-80ca6236913e/app.apk",
+  "sha256": "97bb2fe4db8aa16f181cd911b6c54570770314d0749e040442a38ea1ae2e04fd",
+  "changelog": "- Дрібні покращення",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-05T14:03:36Z",
+  "publishedAt": "2026-11-05T14:34:03Z",
   "history": [
+    {
+      "versionCode": 10554,
+      "versionName": "1.5.54",
+      "changelog": "- Дрібні покращення"
+    },
     {
       "versionCode": 10553,
       "versionName": "1.5.53",
