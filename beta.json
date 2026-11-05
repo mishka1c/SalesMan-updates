@@ -1,14 +1,19 @@
 {
-  "versionCode": 10546,
-  "versionName": "1.5.46",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/4b763dad-1897-4444-b61e-67c785cc28b1/app.apk",
-  "sha256": "b314f9b3f1e8abab7deaa027e85cbb9af29fb257798ef106aec9e266b7c0bf08",
-  "changelog": "- Вибір торгової точки в оплаті, якщо в клієнта їх кілька\n- Торгова точка, договір і склад вибираються списком прямо під полем\n- Якщо в клієнта одна торгова точка, вибору немає\n- Вікно оновлення показує зміни всіх пропущених версій",
+  "versionCode": 10547,
+  "versionName": "1.5.47",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/6507799c-6dae-40d6-837d-32a7f4c8e178/app.apk",
+  "sha256": "4f939eea47b83d6f85a3f23824a8635a0b940048145d224979dc1a9c1f266b7b",
+  "changelog": "- У каталозі не показується зайвий рівень, якщо в ньому лише одна папка (наприклад, єдиний бренд)",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-04T12:37:08Z",
+  "publishedAt": "2026-11-05T08:37:36Z",
   "history": [
+    {
+      "versionCode": 10547,
+      "versionName": "1.5.47",
+      "changelog": "- У каталозі не показується зайвий рівень, якщо в ньому лише одна папка (наприклад, єдиний бренд)"
+    },
     {
       "versionCode": 10546,
       "versionName": "1.5.46",
