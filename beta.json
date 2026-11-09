@@ -1,14 +1,19 @@
 {
-  "versionCode": 10560,
-  "versionName": "1.5.60",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/a7ad6ed4-448e-43a4-ac2b-26ec84db3676/app.apk",
-  "sha256": "e4aac47a561f44c128db5e6d8a2b9f6b921e03bf9777189109e47a09d7b20cf0",
-  "changelog": "- Під час обміну тепер анімація: файли з FTP складаються в паперові літачки й влітають у телефон, при відправці заявок — навпаки",
+  "versionCode": 10561,
+  "versionName": "1.5.61",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/99bad946-c0ec-4494-be72-164c8fd9a9c2/app.apk",
+  "sha256": "a6daa51b0fa7f78c70b24e7d4e17fcf16acf68fbcbd96d14a93ed1840620294d",
+  "changelog": "- Анімація обміну тепер прямо в блоці: при отриманні — у «Отримати дані», при відправці — у «Відправити заявки»",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-09T09:27:23Z",
+  "publishedAt": "2026-11-09T09:41:49Z",
   "history": [
+    {
+      "versionCode": 10561,
+      "versionName": "1.5.61",
+      "changelog": "- Анімація обміну тепер прямо в блоці: при отриманні — у «Отримати дані», при відправці — у «Відправити заявки»"
+    },
     {
       "versionCode": 10560,
       "versionName": "1.5.60",
