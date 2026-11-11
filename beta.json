@@ -1,14 +1,19 @@
 {
-  "versionCode": 10563,
-  "versionName": "1.5.63",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/8ef24403-7392-4837-853f-a429bfc15552/app.apk",
-  "sha256": "222c95b2cc17c4d4149b61bc7b442c4d787fcc86a7086de3362b5890f350652d",
-  "changelog": "- У картці клієнта — плитки боргу за видами з іконками (назви й порядок задає облікова система), накладні-брак позначені міткою «Брак», товари накладної в боргу можна розгорнути",
+  "versionCode": 10564,
+  "versionName": "1.5.64",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/173ee89e-3c6e-41f0-b7fd-3d11eeb951b0/app.apk",
+  "sha256": "57c5527fdc58c7a0fbc51596d9acc4cc85041686ff7dbd9efd596f04a3f09adf",
+  "changelog": "- У каталозі не показується бренд, якщо він один на всі товари (наприклад «Основний»): у «Дереві» — біля товару, у «Списку» замість нього одразу групи",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-11T22:58:11Z",
+  "publishedAt": "2026-11-11T23:12:54Z",
   "history": [
+    {
+      "versionCode": 10564,
+      "versionName": "1.5.64",
+      "changelog": "- У каталозі не показується бренд, якщо він один на всі товари (наприклад «Основний»): у «Дереві» — біля товару, у «Списку» замість нього одразу групи"
+    },
     {
       "versionCode": 10563,
       "versionName": "1.5.63",
