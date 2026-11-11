@@ -1,14 +1,19 @@
 {
-  "versionCode": 10564,
-  "versionName": "1.5.64",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/173ee89e-3c6e-41f0-b7fd-3d11eeb951b0/app.apk",
-  "sha256": "57c5527fdc58c7a0fbc51596d9acc4cc85041686ff7dbd9efd596f04a3f09adf",
-  "changelog": "- У каталозі не показується бренд, якщо він один на всі товари (наприклад «Основний»): у «Дереві» — біля товару, у «Списку» замість нього одразу групи",
+  "versionCode": 10565,
+  "versionName": "1.5.65",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/77eeb320-24af-4d75-9de9-f5724551c68e/app.apk",
+  "sha256": "0dd84a3fda6785df19175ffd3d7823cd38de69ec7a5492f0c03df1d9253eb707",
+  "changelog": "- Демо-режим показує плитки боргу з іконками, накладну-брак і товари накладних; навчання розповідає про ці можливості та анімацію обміну",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-11T23:12:54Z",
+  "publishedAt": "2026-11-11T23:39:14Z",
   "history": [
+    {
+      "versionCode": 10565,
+      "versionName": "1.5.65",
+      "changelog": "- Демо-режим показує плитки боргу з іконками, накладну-брак і товари накладних; навчання розповідає про ці можливості та анімацію обміну"
+    },
     {
       "versionCode": 10564,
       "versionName": "1.5.64",
