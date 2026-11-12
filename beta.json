@@ -1,14 +1,19 @@
 {
-  "versionCode": 10567,
-  "versionName": "1.5.67",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/833bbcd8-a560-4c9b-bbd9-89386f8172dc/app.apk",
-  "sha256": "877d76e5cf1453e10d69c03f0ce0f90ac9067dda10ae157c4b5fa88701f2145b",
-  "changelog": "- Кількість баз даних у програмі тепер визначає ліцензія: за замовчуванням 4, але можна більше. Список баз у перемикачі й резервній копії прокручується",
+  "versionCode": 10568,
+  "versionName": "1.5.68",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/43ade252-fbdd-4f60-bc8e-a200cb4f8286/app.apk",
+  "sha256": "d7ef7ba1906befc8403987a4a676fdcdecf29964798221705ab810a3fcd93eaf",
+  "changelog": "- Сторінки відкриваються й закриваються швидше, без помітного сповільнення",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-12T20:54:38Z",
+  "publishedAt": "2026-11-12T21:16:01Z",
   "history": [
+    {
+      "versionCode": 10568,
+      "versionName": "1.5.68",
+      "changelog": "- Сторінки відкриваються й закриваються швидше, без помітного сповільнення"
+    },
     {
       "versionCode": 10567,
       "versionName": "1.5.67",
