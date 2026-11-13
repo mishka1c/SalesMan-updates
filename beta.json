@@ -1,14 +1,19 @@
 {
-  "versionCode": 10572,
-  "versionName": "1.5.72",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/2c4d94d7-7ae8-4b33-a68d-d8cc1bb9bab5/app.apk",
-  "sha256": "890c537bfeb323d85ad7aeb0e6dc4653525c8a532153b5b48c2f5a07337007a5",
-  "changelog": "- Біля заявок і оплат видно, чи вони вже в обліку: «в обліку», «чекає», «не проведено» або «видалено». У відкритій заявці чи оплаті — номер документа в обліку й час завантаження",
+  "versionCode": 10573,
+  "versionName": "1.5.73",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/c0bc0321-f2c2-4fbe-ab51-24f7aa65d9f2/app.apk",
+  "sha256": "b3b115326210df758c1e7563adbcc3584f9f7dc685da47735231a6666a724b76",
+  "changelog": "- Заявку чи оплату, проведену в обліку, більше не можна розблокувати й змінити. Якщо картинки товарів вимкнені, галочки «Завантажувати фото товарів» в обміні немає",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-13T14:15:24Z",
+  "publishedAt": "2026-11-13T14:44:29Z",
   "history": [
+    {
+      "versionCode": 10573,
+      "versionName": "1.5.73",
+      "changelog": "- Заявку чи оплату, проведену в обліку, більше не можна розблокувати й змінити. Якщо картинки товарів вимкнені, галочки «Завантажувати фото товарів» в обміні немає"
+    },
     {
       "versionCode": 10572,
       "versionName": "1.5.72",
