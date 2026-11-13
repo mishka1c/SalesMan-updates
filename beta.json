@@ -1,14 +1,19 @@
 {
-  "versionCode": 10568,
-  "versionName": "1.5.68",
-  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/43ade252-fbdd-4f60-bc8e-a200cb4f8286/app.apk",
-  "sha256": "d7ef7ba1906befc8403987a4a676fdcdecf29964798221705ab810a3fcd93eaf",
-  "changelog": "- Сторінки відкриваються й закриваються швидше, без помітного сповільнення",
+  "versionCode": 10569,
+  "versionName": "1.5.69",
+  "apkUrl": "https://salesmanupd.bizon.rv.ua/get/3dc7677a-a64b-4bb1-af6f-b29dfa91e40e/app.apk",
+  "sha256": "0a0d809973d39177ba671faeeab4ef3dd852c7ea7914dd69961877cdc38e72f9",
+  "changelog": "- Переплата клієнта по накладній (наприклад, після повернення) тепер видна в списку боргу з мінусом, тож сума накладних збігається із загальним боргом. Такий рядок не можна оплатити, і строку оплати в нього немає",
   "mandatory": false,
   "packageName": "com.salesman.app",
   "certSha256": "50d44a769c33e46923ce79f5d0c9a2925116f45ff20367916818f3b44afc1c81",
-  "publishedAt": "2026-11-12T21:16:01Z",
+  "publishedAt": "2026-11-13T00:00:19Z",
   "history": [
+    {
+      "versionCode": 10569,
+      "versionName": "1.5.69",
+      "changelog": "- Переплата клієнта по накладній (наприклад, після повернення) тепер видна в списку боргу з мінусом, тож сума накладних збігається із загальним боргом. Такий рядок не можна оплатити, і строку оплати в нього немає"
+    },
     {
       "versionCode": 10568,
       "versionName": "1.5.68",
